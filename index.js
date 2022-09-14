@@ -1,3 +1,3 @@
-import QianZoomer from './src/zoomer/index.vue';
+import QianZoomer from './src/index.vue';
 
 export default QianZoomer
